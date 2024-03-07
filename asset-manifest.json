@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghpages-routing-demo/static/css/main.f855e6bc.css",
+    "main.js": "/ghpages-routing-demo/static/js/main.78402d90.js",
+    "static/js/453.bb92f62a.chunk.js": "/ghpages-routing-demo/static/js/453.bb92f62a.chunk.js",
+    "index.html": "/ghpages-routing-demo/index.html",
+    "main.f855e6bc.css.map": "/ghpages-routing-demo/static/css/main.f855e6bc.css.map",
+    "main.78402d90.js.map": "/ghpages-routing-demo/static/js/main.78402d90.js.map",
+    "453.bb92f62a.chunk.js.map": "/ghpages-routing-demo/static/js/453.bb92f62a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.78402d90.js"
+  ]
+}
